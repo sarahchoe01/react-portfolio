@@ -41,12 +41,11 @@
                 background-color: $dark-teal;
             }
         }
-  
+        .subtitle {
+            padding: 15px;
+            color: $dark-teal;
+            font-size: 1.2em;
+        }
     }
     
-     .end-wrapper {
-        padding: 15px;
-        color: $dark-teal;
-        font-size: 1.2em;
-    }
 }
